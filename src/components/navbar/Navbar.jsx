@@ -16,7 +16,7 @@ window.onscroll=()=>{
         <div className="left">
           <img
             src="https://www.out.com/sites/default/files/2019/07/19/netflix-logo-digital-750-1.jpg"
-            alt=""
+            alt="netflix logo"
           />
           <span>Homepage</span>
           <span>Series</span>
@@ -30,7 +30,7 @@ window.onscroll=()=>{
           <NotificationsNoneIcon className="icon" />
           <img
             src="https://www.whatsappprofiledpimages.com/wp-content/uploads/2019/01/Profile-Pic-Images-5-300x286.jpg"
-            alt=""
+            alt="profile logo"
           />
           <div className="profile">
             <ArrowDropDownIcon className="icon" />
